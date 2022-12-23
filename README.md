@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A Computer Science major working on my skills</h3>
 
-<p align="left"> <a href="https://twitter.com/whypratyush" target="blank"><img src="https://img.shields.io/twitter/follow/whypratyush?logo=twitter&style=for-the-badge" alt="whypratyush" /></a> </p>
 
-- 🔭 I’m currently working on **learning DSA**
+- 🔭 I’m currently working on **Learning DSA**
 
 - 🌱 I’m currently learning **Front end development, DSA in C**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 📫 How to reach me **pratyushkamal88@gmail.com**
+- 📫 Email: **pratyushkamal88@gmail.com**
 
 - ⚡ Fun fact **I am also into digital art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left"> <a href="https://twitter.com/whypratyush" target="blank"><img src="https://img.shields.io/twitter/follow/whypratyush?logo=twitter&style=for-the-badge" alt="whypratyush" /></a> </p>
 <a href="https://twitter.com/whypratyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whypratyush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratyush kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush kamal" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyu.shhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyu.shhh" height="30" width="40" /></a>
