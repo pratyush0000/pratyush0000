@@ -2,11 +2,11 @@
 <h3 align="center">A Computer Science major working on my skills</h3>
 
 
-- 🔭 I’m currently working on **Learning DSA**
+- 🔭 I’m currently working on **A finance application**
 
-- 🌱 I’m currently learning **Front end development, DSA in C**
+- 🌱 I’m currently learning **App development, DSA in Java**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **App Development**
 
 - 📫 Email: **pratyushkamal88@gmail.com**
 
