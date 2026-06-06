@@ -1,10 +1,8 @@
-<p align="left">
-  <em>i'm gonna build.</em>
-</p>
+<p align="left"><code>$ whoami</code> → cs student · digital artist · builder</p>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack
 
 ![C](https://img.shields.io/badge/C-555?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00427E?style=flat&logo=cplusplus&logoColor=white)
@@ -26,17 +24,9 @@
 
 ---
 
-### 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-kamal-2221431b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pratyu.shhh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE_jKBopvE3tdDc8IgJJCxg)
-
----
-
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratyush0000&theme=dark&hide_border=true&background=0D1117&ring=00d9a0&fire=00d9a0&currStreakLabel=00d9a0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratyush0000&theme=dark&hide_border=true&background=010409&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
 
 ---
 
@@ -46,6 +36,8 @@
 
 ---
 
-### 💬 Dev Quote
+### 🌐 Connect
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-kamal-2221431b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pratyu.shhh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE_jKBopvE3tdDc8IgJJCxg)
