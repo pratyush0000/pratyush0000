@@ -1,4 +1,3 @@
-<!-- profile -->
 <p align="left">
   <em>i'm gonna build.</em>
 </p>
@@ -37,16 +36,13 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratyushkamal&theme=dark&hide_border=true&background=0D1117&ring=00d9a0&fire=00d9a0&currStreakLabel=00d9a0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratyush0000&theme=dark&hide_border=true&background=0D1117&ring=00d9a0&fire=00d9a0&currStreakLabel=00d9a0)](https://git.io/streak-stats)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/pratyushkamal/pratyushkamal/blob/output/github-contribution-grid-snake-dark.svg)
-
-> To generate the snake, add this GitHub Action to `.github/workflows/snake.yml`:
-> https://github.com/Platane/snk
+![snake](https://github.com/pratyush0000/pratyush0000/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
