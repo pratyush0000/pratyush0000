@@ -37,16 +37,6 @@
 
 ---
 
-### STATS
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratyush0000&theme=dark&hide_border=true&background=0D1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&dates=484f58&sideLabels=484f58)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### CONTRIBUTION SNAKE
 
 <div align="center">
